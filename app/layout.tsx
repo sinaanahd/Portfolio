@@ -3,13 +3,13 @@ import localFont from "next/font/local";
 import "./globals.css";
 
 const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
+  src: "./fonts/Yekan-Bakh-Fa-04-Regular.ttf",
+  variable: "--font-yekan-bakh",
   weight: "100 900",
 });
 const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
+  src: "./fonts/Yekan-Bakh-fat.ttf",
+  variable: "--font-yekan-bakh-fat",
   weight: "100 900",
 });
 
